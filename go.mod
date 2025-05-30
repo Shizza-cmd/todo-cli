@@ -1,3 +1,3 @@
-module todo-cli
+module shizza-cmd/todo-cli
 
 go 1.24.3
